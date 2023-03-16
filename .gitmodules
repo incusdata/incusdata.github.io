@@ -1,0 +1,3 @@
+[submodule "res"]
+	path = res
+	url = codi.gh:incusdata/res-web
